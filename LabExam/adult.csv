@@ -1,0 +1,16 @@
+age,maritalStatus,race,sex,hoursPerWeek,nativeCountry,income
+39,Single,White,Male,40,US,<=50K
+50,Married,White,Male,13,US,<=50K
+38,Married,White,Male,40,US,<=50K
+53,Married,Black,Male,40,China,<=50K
+28,Married,Black,Female,40,China,<=50K
+37,Married,White,Female,40,US,<=50K
+49,Married,Black,Female,16,Sweden,<=50K
+52,Single,White,Male,45,US,>50K
+37,Married,Black,Male,80,Sweden,>50K
+30,Married,Brown,Male,40,India,>50K
+23,Single,White,Female,30,Sweden,<=50K
+28,Single,White,Male,45,US,<=50K
+51,Married,Brown,Male,40,China,>50K
+23,Single,Brown,Female,35,China,<=50K
+72,Single,White,Female,40,US,<=50K
